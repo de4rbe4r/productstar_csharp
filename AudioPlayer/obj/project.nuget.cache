@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n7GiP9MXIBRdBj+cD1xrfMKzczPhQ28nPPEZakAcwSdnxA95b8wY1S461xLd42cFnt/v8FGOnp4P5yUFBJ6KcA==",
+  "success": true,
+  "projectFilePath": "D:\\IT\\ProductStar\\Module2\\AudioPlayer\\AudioPlayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artem\\.nuget\\packages\\system.windows.extensions\\8.0.0\\system.windows.extensions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
